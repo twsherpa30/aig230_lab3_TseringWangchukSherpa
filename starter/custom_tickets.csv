@@ -1,0 +1,21 @@
+text,label
+Application server crashed with Java heap space error,app
+User account locked after multiple failed login attempts,auth
+Network latency spike affecting all cloud services,network
+Email attachment size exceeds maximum allowed limit,messaging
+"Printer queue stuck, jobs not printing to shared printer",device
+VPN tunnel established but no traffic flowing through,network
+Mobile app crashes on startup after latest iOS update,app
+Database transaction timeout during batch processing,app
+Access denied when trying to mount network share drive,auth
+"API rate limit exceeded, requests being throttled",app
+Bluetooth keyboard disconnects randomly during use,device
+Certificate validation failed for internal web service,network
+Spam filter blocking legitimate business emails,messaging
+Screen resolution incorrect after docking laptop,device
+Container orchestration node became unresponsive,app
+Password complexity requirements not clearly communicated,auth
+File sync service not uploading local changes to cloud,app
+Load balancer not distributing traffic evenly across servers,network
+Webcam not detected in video conferencing application,device
+API gateway returning 502 bad gateway intermittently,app
