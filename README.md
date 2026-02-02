@@ -1,24 +1,21 @@
+# AIG230 Lab 3
 
-# AIG 230 – Lab 03
-## Text Representation and Statistical Language Models
+## Overview
+This is Lab 3 for the AIG230 course, completed by Tsering Wangchuk Sherpa.
 
-### Overview
-This lab covers text feature extraction and statistical language modeling.
+## Contents
+- Source code for lab experiments
+- Documentation and analysis
+- Test cases and results
 
-You will work with:
-- Bag-of-Words and TF-IDF
-- Text similarity and classification
-- Unigram, bigram, and trigram language models
-- Perplexity-based evaluation
+## Getting Started
+1. Clone or download this repository
+2. Review the lab requirements and instructions
+3. Run the provided code and experiments
+4. Check the results and documentation
 
----
+## Requirements
+- Python 3.x
+- Required dependencies (see requirements.txt)
 
-## Instructions
 
-1. Use this template repository.
-2. Create a repository named `aig230-lab03-yourname`.
-3. Complete both notebooks.
-4. Push all work to your repository.
-5. Submit the repository link on Blackboard.
-
----
